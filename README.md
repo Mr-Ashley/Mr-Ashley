@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-ashley&label=Profile%20views&color=0e75b6&style=flat" alt="mr-ashley" /> </p>
 
-- 🔭 I’m currently working on **Coding tracker**
+- 🔭 I’m currently working on **FlashCards console App**
 
-- 🌱 I’m currently learning **C#, .NET Maui, ASP.NET**
+- 🌱 I’m currently learning **C#,ASP.NET & JavaScript**
 
 - 🤝 I’m looking for help with **Asp.Net**
 
