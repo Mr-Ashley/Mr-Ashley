@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-ashley&label=Profile%20views&color=0e75b6&style=flat" alt="mr-ashley" /> </p>
 
-- 🔭 I’m currently working on **FlashCards console App**
+- 🔭 I’m currently working on **Flashcards console App & JavaScript Rock,Paper,Scissors game**
 
 - 🌱 I’m currently learning **C#,ASP.NET & JavaScript**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ashley.c.abrahams@gmail.com**
 
-- ⚡ Fun fact **I have the driest Jokes ever.**
+- ⚡ Fun fact **I have the driest jokes ever.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
