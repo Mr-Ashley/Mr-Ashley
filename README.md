@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mr-ashley&label=Profile%20views&color=0e75b6&style=flat" alt="mr-ashley" /> </p>
 
-- 🔭 I’m currently working on **Flashcards console App & JavaScript Rock,Paper,Scissors game**
+- 🔭 I’m currently working on ** a Web Development course**
 
 - 🌱 I’m currently learning **C#,ASP.NET & JavaScript**
 
